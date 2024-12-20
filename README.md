@@ -15,11 +15,8 @@ This repository contains all the steps I followed to perform an advanced Explora
 - **data/**  
   - raw_data.csv: The original dataset with no modifications.  
   - cleaned_data.csv: The cleaned version of the dataset, ready for analysis or further modeling.  
-- **visualizations/**  
-  - Various visualizations (heatmaps, pair plots, KDE plots) generated during the analysis.  
-- **src/**  
-  - data_cleaning.py: Scripts to handle missing values and outlier detection.  
-  - feature_engineering.py: Scripts to create new features and transform the dataset.  
+- **EDA Report/**  
+  - EDA report in both format docx and pdf
 
 ---
 
