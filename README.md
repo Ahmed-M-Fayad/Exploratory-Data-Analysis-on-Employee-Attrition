@@ -16,7 +16,7 @@ This repository contains all the steps I followed to perform an advanced Explora
   - raw_data.csv: The original dataset with no modifications.  
   - cleaned_data.csv: The cleaned version of the dataset, ready for analysis or further modeling.  
 - **EDA Report/**  
-  - EDA report in both format docx and pdf
+  - EDA report in pdf format
 
 ---
 
